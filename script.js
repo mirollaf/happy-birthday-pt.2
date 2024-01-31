@@ -21,4 +21,5 @@ function showEvent5() {
 
     document.getElementById("info").innerText = "test5"
     document.getElementById("img1").src = ""
+    ImageBitmapRenderingContext
 }
